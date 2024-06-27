@@ -1,1 +1,2 @@
-# OS
+# FCFS
+Process: A unit of work for the CPU. Process ID (PID): Unique identifier for a process. Arrival Time: Time a process arrives in the ready queue. Burst Time: Time required by a process to execute on the CPU. Completion Time: Time at which a process finishes execution. Turnaround Time: Time taken from process arrival to its completion (turnaround_time = completion_time - arrival_time). Waiting Time: Time a process spends waiting in the ready queue (waiting_time = turnaround_time - burst_time). FCFS Scheduling: Processes are executed in the order they arrive.
